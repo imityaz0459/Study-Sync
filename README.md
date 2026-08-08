@@ -5,3 +5,4 @@ What it is (a front-end landing page project, hero + features + pricing + about 
 <br>
 Tech used: HTML5, CSS3 (and mention if you used Google Fonts — I saw Barlow Semi Condensed, Figtree, Inter, Karla linked in).
 <br>
+This was my first big project
