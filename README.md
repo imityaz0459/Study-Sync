@@ -1,4 +1,4 @@
-# Study-Sync.
+# Study-Sync
 A responsive landing page for StudySync, an ed-tech platform concept — built with HTML &amp; CSS.
 <br>
 What it is (a front-end landing page project, hero + features + pricing + about sections).
