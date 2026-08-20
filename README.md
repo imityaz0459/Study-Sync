@@ -1,11 +1,38 @@
-# Study-Sync
-A responsive landing page for StudySync, an ed-tech platform concept — built with HTML &amp; CSS.
-<br>
-[![View Live](https://img.shields.io/badge/View-Live%20Demo-brightgreen?style=for-the-badge)](https://your-username.github.io/repo-name/)
-<br>
-What it is (a front-end landing page project, hero + features + pricing + about sections).
-<br>
-Tech used: HTML5, CSS3 (and mention if you used Google Fonts — I saw Barlow Semi Condensed, Figtree, Inter, Karla linked in).
-<br>
+<div align="center">
 
+# 📚 Study-Sync
 
+**A responsive landing page for an ed-tech platform concept**
+
+[![View Live Demo](https://img.shields.io/badge/🔗_View_Live_Demo-4CAF50?style=for-the-badge&logoColor=white)](https://your-username.github.io/repo-name/)
+
+</div>
+
+---
+
+## 📖 About
+
+Study-Sync is a front-end landing page project built to practice real-world layout and design. It includes a hero section, features section, pricing section, and about section — designed to look like a real ed-tech product page.
+
+## 🛠️ Tech Stack
+
+- **HTML5** — semantic structure
+- **CSS3** — responsive styling and layout
+- **Google Fonts** — Barlow Semi Condensed, Figtree, Inter, Karla
+
+## 🎯 Sections Included
+
+- Hero
+- Features
+- Pricing
+- About
+
+## 📌 Note
+
+This was my first big front-end project — built to practice structuring and styling a complete multi-section landing page.
+
+---
+
+<div align="center">
+Made with ❤️ by <a href="https://github.com/your-username">Your Name</a>
+</div>
