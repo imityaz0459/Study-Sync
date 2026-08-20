@@ -1,6 +1,7 @@
 # Study-Sync
 A responsive landing page for StudySync, an ed-tech platform concept — built with HTML &amp; CSS.
 <br>
+[![View Live](https://img.shields.io/badge/View-Live%20Demo-brightgreen?style=for-the-badge)](https://your-username.github.io/repo-name/)
 
 What it is (a front-end landing page project, hero + features + pricing + about sections).
 <br>
