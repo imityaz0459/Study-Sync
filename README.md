@@ -4,7 +4,7 @@
 
 **A responsive landing page for an ed-tech platform concept**
 
-[![View Live Demo](https://img.shields.io/badge/🔗_View_Live_Demo-4CAF50?style=for-the-badge&logoColor=white)](https://your-username.github.io/repo-name/)
+[![View Live Demo](https://img.shields.io/badge/🔗_View_Live_Demo-4CAF50?style=for-the-badge&logoColor=white)](https://imityaz0459.github.io/Study-Sync/)
 
 </div>
 
